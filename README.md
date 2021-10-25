@@ -5,6 +5,6 @@ The project is completed by adding JavaScript functions. The project is complete
 
  Deployement Link: https://pabi149.github.io/Work-Day/
  
-  ![Screenshot](/Image.png)
+  ![Website](/Image.png)
 
  Project Link: https://github.com/Pabi149/Work-Day.git
