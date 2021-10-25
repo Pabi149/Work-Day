@@ -1,1 +1,7 @@
-# Work-Day
+# Work-Day- Challenge 5
+
+The task was to create an event calender using existing html and css.
+The project is completed by adding JavaScript functions. The project is completed with a combination of HTML,CSS and JQuery.
+
+ Deployement Link: ![Screenshot](/Image.png)
+ Project Link: https://github.com/Pabi149/Work-Day.git
